@@ -79,7 +79,7 @@ header {
 .menu a {
   text-transform: uppercase;
   text-decoration: none;
-  color: black;
+  color: #060b35;
   font-size: 12px;
   font-weight: 500;
   position: relative;
@@ -87,7 +87,7 @@ header {
   line-height: 60px;
 }
 
-.menu .blue {
+.menu .is-active {
   color: var(--color-nav);
 }
 
